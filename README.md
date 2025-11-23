@@ -114,15 +114,15 @@ spacing[4]  // 1rem
 breakpoints.md  // 768px
 ```
 
-## Storybook
+## Documentation Site
 
-View the component library and documentation:
+View the design system documentation:
 
 ```bash
-npm run storybook
+npm run docs:dev
 ```
 
-Or visit the hosted Storybook at: https://alto9.github.io/kube9-design/ (deployed from this repository)
+Or visit the hosted documentation at: https://alto9.github.io/kube9-design/ (deployed from this repository)
 
 ## Development
 
@@ -143,11 +143,11 @@ npm install
 # Build package
 npm run build
 
-# Run Storybook
-npm run storybook
+# Run documentation site locally
+npm run docs:dev
 
-# Build Storybook for deployment
-npm run build-storybook
+# Build documentation for deployment
+npm run docs:build
 ```
 
 ## Design System Principles

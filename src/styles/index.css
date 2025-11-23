@@ -1,0 +1,13 @@
+/**
+ * kube9 Design System Base Styles
+ * Based on martex-template, using Tailwind v4
+ * 
+ * This file imports the complete martex-template CSS as the foundation.
+ * The martex-template file is NEVER modified - it's copied here as a reference.
+ * 
+ * Source: alto9-docs/marketing/martex-template/martex/src/input.css
+ */
+
+/* Import the complete martex-template CSS */
+@import "./martex-base.css";
+

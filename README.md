@@ -1,6 +1,6 @@
 # @kube9/design
 
-kube9 Design System - Vue components and design tokens based on martex-template.
+kube9 Design System - Vue components and design tokens.
 
 ## Installation
 
